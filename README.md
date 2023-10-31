@@ -21,3 +21,8 @@ type these command
 -This should run the application
 
 > > npm start
+
+NOTE:
+This application only run through node version 16.0.0 - 17.0.0 due to outdated dependencies,
+plus the algorithm reference for this application uses old/outdated method or approach.
+Overall the application is fully functional and operational.
